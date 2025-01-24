@@ -4,10 +4,10 @@ export default function HowToBuy() {
       <h2 className="text-3xl font-bold text-blue-800 mb-6">How to Buy KBTOYS Token</h2>
       <ol className="list-decimal list-inside space-y-4">
         <li>Set up a Solana wallet (like Phantom or Solflare)</li>
-        <li>Purchase SOL from a cryptocurrency exchange</li>
-        <li>Transfer SOL to your Solana wallet</li>
-        <li>Visit our token sale page (coming soon!)</li>
-        <li>Connect your wallet and swap SOL for KBTOYS</li>
+        <li>Purchase SOL in Phantom wallet if you don't already have some</li>
+        <li>Click the last tab on the bottom of your mobile device</li>
+        <li>Type pump.fun in the url bar and connect your wallet</li>
+        <li>Paste our contract address, to trade KBTOYS</li>
       </ol>
       <p className="mt-6 text-sm text-gray-600">
         Disclaimer: KBTOYS token is a meme token with no intrinsic value. It is not an investment product and should be
