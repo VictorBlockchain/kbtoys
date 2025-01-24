@@ -6,10 +6,10 @@ export default function Hero() {
       <div className="flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-4 md:mb-0">
           <h1 className="text-4xl font-bold text-blue-800 mb-4">Welcome to KB Toys!</h1>
-          <p className="text-lg mb-4">Relive the magic of KB Toys with our new KBTOYS token!</p>
-          <button className="bg-red-600 text-white px-6 py-2 rounded hover:bg-red-700 transition-colors">
+          <p className="text-lg mb-4">Relive the magic of KB Toys with our new KBTOYS token! <br/>contract: 6jNgUrT3GU5gKGfvepPCJ6oz2b1W6ELBjhpj4cSdpump</p>
+          <a href="https://pump.fun/coin/6jNgUrT3GU5gKGfvepPCJ6oz2b1W6ELBjhpj4cSdpump" className="bg-red-600 text-white px-6 py-2 rounded hover:bg-red-700 transition-colors">
             Get KBTOYS Now!
-          </button>
+          </a>
         </div>
         <div className="md:w-1/2">
           <Image
